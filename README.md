@@ -62,8 +62,9 @@ rails s
   * the Rails app will build a web page display of the results and accept the next keyword search
   * the web page displayed will provide HTML links to more detailed recipe
     information from other web sites.
-  *The user may specify the search keyword using just the URL with the following syntax in the browser
-        https://recipefinder005.herokuapp.com/?search=paratha
+  * the user may specify the search keyword using just the URL with the following syntax in the browser
+  
+        https://recipefinder005.herokuapp.com/?search=soup
 
 
 ##### Thanks for creating the following things!
