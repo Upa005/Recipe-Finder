@@ -1,24 +1,31 @@
-# README
+# Recipe Finder
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This application will give you access to recipe information served
+by [food2fork](http://food2fork.com/api) through JSON and images.
 
-* Ruby version
+This app will display a recipe index page based on a search keyword entered.
 
-* System dependencies
+Running live - [click](https://recipefinder005.herokuapp.com/)
 
-* Configuration
 
-* Database creation
+## Setup Instructions
 
-* Database initialization
+* Clone the source
 
-* How to run the test suite
+	```
+	git clone https://github.com/Upa005/Recipe-Finder.git
+	```
+*  Requirements
 
-* Services (job queues, cache servers, search engines, etc.)
+	```
+	Ruby version : 2.3.1
+	Rails version : 5.0.0
+	phantomjs version : 2.0.0 (for testing the app)
 
-* Deployment instructions
+	```
+* Install 
 
-* ...
+	1. Follow [Install Ruby on Rails · Ubuntu Linux](http://railsapps.github.io/installrubyonrails-ubuntu.html) to install Ruby on Rails
+
+	2. 
